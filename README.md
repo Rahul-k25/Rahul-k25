@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />][linkedin]
+[<img align="left" alt="Linkedin" width="22px" src="https://icons-for-free.com/download-icon-linked+linkedin+logo+social+icon-1320191784782940875_512.png" />][linkedin]
 <br />
 
 ### Languages and Tools:
