@@ -35,7 +35,7 @@
 [website]: https://github.com/Rahul-k25/I_am_Rahul
 [course]: https://github.com/Rahul-k25/I_am_Rahul
 [twitter]: https://twitter.com/Kr_rahul_
-[linkedin]: linkedin.com/in/rahul-kumar-113bbb173
+[linkedin]: https://www.linkedin.com/in/rahul-kumar25/
 [webdevplaylist]: https://github.com/Rahul-k25/I_am_Rahul
 
 <br />
