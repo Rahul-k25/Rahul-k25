@@ -37,8 +37,3 @@
 [twitter]: https://twitter.com/Kr_rahul_
 [linkedin]: https://www.linkedin.com/in/rahul-kumar25/
 [webdevplaylist]: https://github.com/Rahul-k25/I_am_Rahul
-
-<br />
-
-### Follow Me :
-![image](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
