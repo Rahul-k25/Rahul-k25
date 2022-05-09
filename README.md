@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on Web Developement
 - 📡 I’m currently learning Database
-- 🥅 2021 Goals: API, Caching, Web Security Knowledge
+- 🥅 2022 Goals: API, Caching, Web Security Knowledge
 - 💬 Ask me about Python, Data structure, Database(Mysql)
 - 🤔 I’m looking for help with- Web Development, Advance Database concept
 
