@@ -5,10 +5,8 @@
 ## I'm a Developer, Learner and passionate Engineer!!
 
 - 💻 I’m currently working on Web Developement
-- 📡 I’m currently learning Database
-- 🥅 2022 Goals: API, Caching, Web Security Knowledge
-- 💬 Ask me about Python, Data structure, Database(Mysql)
-- 🤔 I’m looking for help with- Web Development, Advance Database concept
+- 🥅 2023 Goals: API, Caching, Web Security Knowledge
+- 🤔 I’m looking for help with- Web Development, Advance Database concept, Angular
 
 ### Connect with me:
 
