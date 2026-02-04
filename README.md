@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
-## I'm a Developer, Learner and passionate Engineer!!
+### I'm a Developer, Learner and passionate Engineer!!
 
 ### Connect with me:
 
